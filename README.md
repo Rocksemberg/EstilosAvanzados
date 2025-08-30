@@ -2,7 +2,7 @@
 Aplica estilos avanzados y técnicas de diseño responsivo utilizando CSS3.
 
 
-##Descripcion
+## Descripcion
 este dashboard administrativo presenta, el estado del inventario de una empresa. En la parte superior hay un header con buscador y acciones de usuario; a la izquierda, una sidebar con navegación.
 
 El main muestra:
@@ -11,7 +11,7 @@ El main muestra:
 	•	Una tabla responsiva de movimientos recientes con badges de estado.
 Todo es responsive,  el menú es colapsable en el celular.
 
-##Tecnologías usadas
+## Tecnologías usadas
 	•	HTML5 semántico: header, aside, main, section, figure, table, roles ARIA y etiquetas accesibles.
 	•	CSS Grid (layout principal y rejillas de tarjetas) y Flexbox (alineación interna).
 	•	Custom properties (variables CSS) para colores, radios, sombras y espacios.
